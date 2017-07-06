@@ -1,0 +1,37 @@
+
+html body {
+	font-family: 'Give You Glory', cursive;
+	background: url('../img/background.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+h1 {
+	font-weight: bolder;
+	text-decoration: dotted underline orange;
+	text-shadow: 2px 2px yellow;
+	font-size: 45px;
+
+}
+body {
+	font-size: 18px;
+	color: #0ff;
+	background-color: #000;
+	text-align: center;
+}
+
+button {
+	font-family: 'Give You Glory', cursive;
+	font-weight: bolder;
+	background-color: rgb(212, 0, 255);
+    border: 10px dashed rgb(40, 35, 178);
+    border-radius: 10px;
+    color: black;
+    padding: 30px 62px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 35px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
