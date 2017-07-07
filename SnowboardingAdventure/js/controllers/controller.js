@@ -171,7 +171,7 @@
 	  		  		contestant3Points += Math.floor((Math.random()*5) +1);
 		  		  } else {
 		  		  	alert('Contestant 3 takes the ' + event + ' event!')
-		  		  	ontestant3Points += Math.floor((Math.random()*20)+5);
+		  		  	contestant3Points += Math.floor((Math.random()*20)+5);
 	  		  		contestant2Points += Math.floor((Math.random()*5) +1);
 	  		  		contestant1Points += Math.floor((Math.random()*5) +1);
 		  		  };
@@ -190,7 +190,7 @@
 	  		  		contestant3Points += Math.floor((Math.random()*5) +1);
 		  		  } else {
 		  		  	alert('Contestant 3 takes the ' + event + ' event!')
-		  		  	ontestant3Points += Math.floor((Math.random()*20)+5);
+		  		  	contestant3Points += Math.floor((Math.random()*20)+5);
 	  		  		contestant2Points += Math.floor((Math.random()*5) +1);
 	  		  		contestant1Points += Math.floor((Math.random()*5) +1);
 		  		  };
@@ -209,7 +209,7 @@
 	  		  		contestant3Points += Math.floor((Math.random()*5) +1);
 		  		  } else {
 		  		  	alert('Contestant 3 takes the ' + event + ' event!')
-		  		  	ontestant3Points += Math.floor((Math.random()*20)+5);
+		  		  	contestant3Points += Math.floor((Math.random()*20)+5);
 	  		  		contestant2Points += Math.floor((Math.random()*5) +1);
 	  		  		contestant1Points += Math.floor((Math.random()*5) +1);
 		  		  };
@@ -228,7 +228,7 @@
 	  		  		contestant3Points += Math.floor((Math.random()*5) +1);
 		  		  } else {
 		  		  	alert('Contestant 3 takes the ' + event + ' event!')
-		  		  	ontestant3Points += Math.floor((Math.random()*20)+5);
+		  		  	contestant3Points += Math.floor((Math.random()*20)+5);
 	  		  		contestant2Points += Math.floor((Math.random()*5) +1);
 	  		  		contestant1Points += Math.floor((Math.random()*5) +1);
 		  		  };
